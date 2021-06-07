@@ -1,5 +1,5 @@
 # apploc_micro
-AppLocale micro
+Microsoft AppLocale micro build
 Adding AppLocale without installation via msi file. 
 
 Instructions:
