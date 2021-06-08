@@ -1,6 +1,6 @@
 # apploc_micro
 Microsoft AppLocale micro build. 
-Adding AppLocale without installation via msi file. 
+Adding AppLocale without installation msi file. 
 
 Instructions:
 1) copy the contents of the "Windows" folder to the "Windows" folder of your system
